@@ -1,6 +1,6 @@
-More documentatin will be coming soon. 
+More documentation will be coming soon. 
 
-DocHive has 2 prerequisites, ImageMagic and Tesseract.
+DocHive has 2 prerequisites, ImageMagick and Tesseract.
 
 Install both of these, for command line use, and update 
 
